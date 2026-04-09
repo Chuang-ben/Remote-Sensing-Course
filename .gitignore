@@ -1,0 +1,15 @@
+#data
+shelter_hulien_df.geojson
+edge_with_rainfall.geojson
+
+#output
+isocrone_results.png
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
