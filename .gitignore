@@ -1,6 +1,7 @@
 #data
-shelter_hulien_df.geojson
-edge_with_rainfall.geojson
+shelter_hualien_df.geojson
+edges_with_rainfall.geojson
+Homework-Week7.md
 
 #output
 isocrone_results.png
@@ -13,3 +14,4 @@ isocrone_results.png
 __pycache__/
 *.pyc
 *.pyo
+
