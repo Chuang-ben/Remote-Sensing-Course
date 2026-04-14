@@ -1,0 +1,18 @@
+asset,type,location,W4_terrain_risk,W7_centrality_rank,lake_hit,landslide_hit,debris_hit,notes
+光復車站,W8_transport,光復鄉,high,—,N,Y,N,transport
+光復鄉公所,W8_command,光復鄉,high,—,N,Y,N,command
+鳳林市區狹窄路段,W7_bottleneck,台9線,medium,3,N,Y,N,台9線交通瓶頸節點
+光復台9線北端入口,W7_bottleneck,台9線,medium,4,N,Y,N,台9線交通瓶頸節點
+馬太鞍台9線橋,W8_critical_bridge,光復鄉,high,—,N,N,N,critical_bridge
+花蓮大橋,W7_bottleneck,台9線,medium,1,N,N,N,台9線交通瓶頸節點
+壽豐台9線岔路口,W7_bottleneck,台9線,medium,2,N,N,N,台9線交通瓶頸節點
+瑞穗大橋,W7_bottleneck,台9線,medium,5,N,N,N,台9線交通瓶頸節點
+光復國小（避難所）,W8_shelter,光復鄉,medium,—,N,N,N,shelter
+富源土石流警戒區,W8_hazard_zone,光復鄉,medium,—,N,N,N,hazard_zone
+國風國中,W3_shelter,花蓮市,low,—,N,N,N,花蓮市避難所，距光復 ~40 km
+花蓮高中,W3_shelter,花蓮市,low,—,N,N,N,花蓮市避難所，距光復 ~40 km
+明禮國小,W3_shelter,花蓮市,low,—,N,N,N,花蓮市避難所，距光復 ~40 km
+花蓮體育館,W3_shelter,花蓮市,low,—,N,N,N,花蓮市避難所，距光復 ~40 km
+化仁國中,W3_shelter,花蓮市,low,—,N,N,N,花蓮市避難所，距光復 ~40 km
+自強夜市廣場,W3_shelter,花蓮市,low,—,N,N,N,花蓮市避難所，距光復 ~40 km
+花蓮港區,W3_shelter,花蓮市,low,—,N,N,N,花蓮市避難所，距光復 ~40 km
