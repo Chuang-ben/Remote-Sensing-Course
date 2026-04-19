@@ -1,5 +1,11 @@
 Asset,Type,Location,W4_terrain_risk,W7_centrality_rank,lake_hit,landslide_hit,debris_hit,Notes
-鳳義社區活動中心,W3_shelter,鳳義里,high,—,N,N,Y,buried in 20 cm debris
+東富國小,W3_shelter,東富村,extremely_high,—,N,N,Y,buried in 20 cm debris
+光復火車站,W8_critical_infra,光復鄉,—,—,N,N,Y,buried in 20 cm debris
+光復國小,W8_shelter,光復鄉,—,—,N,N,Y,buried in 20 cm debris
+光復鄉公所,W8_shelter,光復鄉,—,—,N,N,Y,buried in 20 cm debris
+佛祖街沉積區中心,W8_critical_infra,光復鄉,—,—,N,N,Y,buried in 20 cm debris
+富民社區活動中心,W3_shelter,富民村,low,—,N,Y,N,landslide affected
+富源社區活動中心,W3_shelter,富源村,low,—,N,Y,N,landslide affected
 豐南社區活動中心,W3_shelter,豐南村,extremely_high,—,N,N,N,outside event area
 永豐社區活動中心,W3_shelter,永豐村,extremely_high,—,N,N,N,outside event area
 富里老人文康中心,W3_shelter,富里村,extremely_high,—,N,N,N,outside event area
@@ -34,7 +40,6 @@ Asset,Type,Location,W4_terrain_risk,W7_centrality_rank,lake_hit,landslide_hit,de
 豐濱國中禮堂,W3_shelter,豐濱村,extremely_high,—,N,N,N,outside event area
 大興活動中心,W3_shelter,大興村,extremely_high,—,N,N,N,outside event area
 砂荖活動中心,W3_shelter,南富村,extremely_high,—,N,N,N,outside event area
-東富國小,W3_shelter,東富村,extremely_high,—,N,N,N,outside event area
 磯崎村辦公處活動中心,W3_shelter,磯崎村,extremely_high,—,N,N,N,outside event area
 森榮里辦公處,W3_shelter,森榮里,extremely_high,—,N,N,N,outside event area
 水璉活動中心,W3_shelter,水璉村,extremely_high,—,N,N,N,outside event area
@@ -101,6 +106,7 @@ Asset,Type,Location,W4_terrain_risk,W7_centrality_rank,lake_hit,landslide_hit,de
 明利社區活動中心,W3_shelter,明利村,high,—,N,N,N,outside event area
 萬榮鄉立幼兒園,W3_shelter,明利村,high,—,N,N,N,outside event area
 萬榮社區活動中心,W3_shelter,萬榮村,high,—,N,N,N,outside event area
+鳳義社區活動中心,W3_shelter,鳳義里,high,—,N,N,N,outside event area
 米棧活動中心,W3_shelter,米棧村,high,—,N,N,N,outside event area
 溪口活動中心,W3_shelter,溪口村,high,—,N,N,N,outside event area
 西林社區活動中心,W3_shelter,西林村,high,—,N,N,N,outside event area
@@ -208,6 +214,32 @@ Asset,Type,Location,W4_terrain_risk,W7_centrality_rank,lake_hit,landslide_hit,de
 龜山里-龜山社區活動中心,W3_shelter,,high,—,N,N,N,outside event area
 大里里-大里社區活動中心,W3_shelter,,high,—,N,N,N,outside event area
 石城里-石城社區活動中心,W3_shelter,,high,—,N,N,N,outside event area
+Node_1119847832,W7_bottleneck,台9線,high,1,N,N,N,outside event area
+月眉活動中心,W3_shelter,月眉村,medium,—,N,N,N,outside event area
+志學活動中心,W3_shelter,志學村,medium,—,N,N,N,outside event area
+南昌活動中心,W3_shelter,南昌村,medium,—,N,N,N,outside event area
+中正國小,W3_shelter,主學里,medium,—,N,N,N,outside event area
+花蓮城隍廟香客大樓,W3_shelter,主睦里,medium,—,N,N,N,outside event area
+五穀宮,W3_shelter,吉安村,medium,—,N,N,N,outside event area
+忠孝國小,W3_shelter,主力里,medium,—,N,N,N,outside event area
+主權社區活動中心,W3_shelter,主權里,medium,—,N,N,N,outside event area
+國風國中,W3_shelter,國風里,medium,—,N,N,N,outside event area
+國立花蓮農業職業學校,W3_shelter,國魂里,medium,—,N,N,N,outside event area
+花蓮高商,W3_shelter,國安里,medium,—,N,N,N,outside event area
+永安活動中心,W3_shelter,永安村,medium,—,N,N,N,outside event area
+鑄強國小,W3_shelter,民政里,medium,—,N,N,N,outside event area
+"慈濟大學附設國民中學,小學",W3_shelter,國興里,medium,—,N,N,N,outside event area
+美崙國中,W3_shelter,民孝里,medium,—,N,N,N,outside event area
+私立四維高級中學,W3_shelter,國慶里,medium,—,N,N,N,outside event area
+大陳二村活動中心,W3_shelter,民意里,medium,—,N,N,N,outside event area
+新城鄉立圖書館,W3_shelter,大漢村,medium,—,N,N,N,outside event area
+新城鄉原住民文化館,W3_shelter,大漢村,medium,—,N,N,N,outside event area
+康樂社區活動中心,W3_shelter,康樂村,medium,—,N,N,N,outside event area
+佳民國小收容所,W3_shelter,佳民村,medium,—,N,N,N,outside event area
+北三棧社區活動中心,W3_shelter,順安村,medium,—,N,N,N,outside event area
+Node_601584086,W7_bottleneck,台9線,medium,2,N,N,N,outside event area
+Node_906775240,W7_bottleneck,台9線,medium,4,N,N,N,outside event area
+Node_883096197,W7_bottleneck,台9線,medium,5,N,N,N,outside event area
 新興竹田聯合社區活動中心,W3_shelter,竹田村,low,—,N,N,N,outside event area
 萬寧社區活動中心,W3_shelter,萬寧村,low,—,N,N,N,outside event area
 東里社區活動中心,W3_shelter,東里村,low,—,N,N,N,outside event area
@@ -215,8 +247,6 @@ Asset,Type,Location,W4_terrain_risk,W7_centrality_rank,lake_hit,landslide_hit,de
 中正堂,W3_shelter,泰昌里,low,—,N,N,N,outside event area
 花蓮縣立瑞穗國民中學,W3_shelter,瑞穗村,low,—,N,N,N,outside event area
 瑞穗社區活動中心,W3_shelter,瑞穗村,low,—,N,N,N,outside event area
-富民社區活動中心,W3_shelter,富民村,low,—,N,N,N,outside event area
-富源社區活動中心,W3_shelter,富源村,low,—,N,N,N,outside event area
 富源消防分隊,W3_shelter,富源村,low,—,N,N,N,outside event area
 富興社區活動中心,W3_shelter,富興村,low,—,N,N,N,outside event area
 大富國小,W3_shelter,大富村,low,—,N,N,N,outside event area
@@ -422,35 +452,5 @@ Asset,Type,Location,W4_terrain_risk,W7_centrality_rank,lake_hit,landslide_hit,de
 頂埔里-順天府池府王爺廟,W3_shelter,,low,—,N,N,N,outside event area
 大坑里-協天宮,W3_shelter,,low,—,N,N,N,outside event area
 拔雅里-拔雅社區活動中心,W3_shelter,,low,—,N,N,N,outside event area
-月眉活動中心,W3_shelter,月眉村,medium,—,N,N,N,outside event area
-志學活動中心,W3_shelter,志學村,medium,—,N,N,N,outside event area
-南昌活動中心,W3_shelter,南昌村,medium,—,N,N,N,outside event area
-中正國小,W3_shelter,主學里,medium,—,N,N,N,outside event area
-花蓮城隍廟香客大樓,W3_shelter,主睦里,medium,—,N,N,N,outside event area
-五穀宮,W3_shelter,吉安村,medium,—,N,N,N,outside event area
-忠孝國小,W3_shelter,主力里,medium,—,N,N,N,outside event area
-主權社區活動中心,W3_shelter,主權里,medium,—,N,N,N,outside event area
-國風國中,W3_shelter,國風里,medium,—,N,N,N,outside event area
-國立花蓮農業職業學校,W3_shelter,國魂里,medium,—,N,N,N,outside event area
-花蓮高商,W3_shelter,國安里,medium,—,N,N,N,outside event area
-永安活動中心,W3_shelter,永安村,medium,—,N,N,N,outside event area
-鑄強國小,W3_shelter,民政里,medium,—,N,N,N,outside event area
-"慈濟大學附設國民中學,小學",W3_shelter,國興里,medium,—,N,N,N,outside event area
-美崙國中,W3_shelter,民孝里,medium,—,N,N,N,outside event area
-私立四維高級中學,W3_shelter,國慶里,medium,—,N,N,N,outside event area
-大陳二村活動中心,W3_shelter,民意里,medium,—,N,N,N,outside event area
-新城鄉立圖書館,W3_shelter,大漢村,medium,—,N,N,N,outside event area
-新城鄉原住民文化館,W3_shelter,大漢村,medium,—,N,N,N,outside event area
-康樂社區活動中心,W3_shelter,康樂村,medium,—,N,N,N,outside event area
-佳民國小收容所,W3_shelter,佳民村,medium,—,N,N,N,outside event area
-北三棧社區活動中心,W3_shelter,順安村,medium,—,N,N,N,outside event area
-Node_1119847832,W7_bottleneck,台9線,high,1,N,N,N,outside event area
 Node_906775386,W7_bottleneck,台9線,low,3,N,N,N,outside event area
-Node_601584086,W7_bottleneck,台9線,medium,2,N,N,N,outside event area
-Node_906775240,W7_bottleneck,台9線,medium,4,N,N,N,outside event area
-Node_883096197,W7_bottleneck,台9線,medium,5,N,N,N,outside event area
-Mataian_Hwy9_Bridge,W8_bridge,光復鄉,—,—,N,N,N,outside event area
-Guangfu_Station,W8_critical_infra,光復鄉,—,—,N,N,N,outside event area
-Foxu_Debris_Zone,W8_critical_infra,光復鄉,—,—,N,N,N,outside event area
-Guangfu_Elementary,W8_shelter,光復鄉,—,—,N,N,N,outside event area
-Guangfu_Township_Office,W8_shelter,光復鄉,—,—,N,N,N,outside event area
+台9線馬太鞍溪橋,W8_bridge,光復鄉,—,—,N,N,N,outside event area
