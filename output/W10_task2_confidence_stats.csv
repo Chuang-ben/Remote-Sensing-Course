@@ -1,0 +1,5 @@
+﻿class_id,class_name,pixels,area_km2
+0,No Detection,2370929,237.09290000000001
+1,Optical Only,106952,10.6952
+2,SAR Only (Cloudy),29280,2.928
+3,High Confidence,27059,2.7059
