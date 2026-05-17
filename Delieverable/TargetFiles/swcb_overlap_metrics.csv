@@ -1,0 +1,4 @@
+Metric,Value,Meaning
+Recall,0.21348314606741572,Fraction of SWCB landslide pixels detected by RF Bare/Landslide
+Precision,0.002324274853430231,Fraction of RF Bare/Landslide pixels confirmed by SWCB
+IoU,0.002304540798907477,Intersection over Union between RF Bare/Landslide and SWCB landslide
