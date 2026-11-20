@@ -1,0 +1,6 @@
+metric,value
+OOB accuracy,0.8343848580441641
+Test accuracy,0.8298319327731093
+Macro avg F1,0.7285740133178151
+Weighted avg F1,0.8195964990656891
+Weighted-Macro F1 gap,0.09102248574787397
