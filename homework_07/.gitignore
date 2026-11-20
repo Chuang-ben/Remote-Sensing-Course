@@ -1,0 +1,17 @@
+#data
+shelter_hualien_df.geojson
+edges_with_rainfall.geojson
+Homework-Week7.md
+
+#output
+isocrone_results.png
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
