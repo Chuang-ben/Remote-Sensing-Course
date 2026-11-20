@@ -1,0 +1,49 @@
+﻿# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project outputs (generated)
+/output/
+/cache/
+/Results/
+/data/
+# Website runtime logs
+*.log
+
+# Scenario maps reuse the shared Taipei boundary file.
+Taipei_City_Urban_Resilience_Map_Website/road_pmtiles_web/data/scenarios/*/taipei_boundary.geojson
+
+# Heavy scenario intermediate GeoJSON files can be regenerated.
+scenarios/*/*.geojson
+Taipei_City_Urban_Resilience_Map_Website/scenarios/*/*.geojson
+
+# Optional: generated graph exports outside output/
+*.graphml
