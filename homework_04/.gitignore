@@ -1,0 +1,58 @@
+# Environment variables
+.env
+
+# Homework instructions
+Homework-Week4.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (keep them in Google Drive)
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+
+# Output files (excluding specific analysis images)
+output/
+*.png
+*.jpg
+*.jpeg
+
+# Exceptions: Keep these specific analysis images
+!top10_risk_shelters_bar_chart.png
+!Hualien_terrain_risk_map.png
